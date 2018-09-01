@@ -1,0 +1,39 @@
+{
+  "name": "modelo",
+  "version": "1.0.0",
+  "description": "Modelo",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "gulp"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "framework"
+  ],
+  "author": "Alvino Rodrigues",
+  "dependencies": {
+    "browser-sync": "^2.24.7",
+    "font-awesome": "^4.7.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-google-webfonts": "2.0.0",
+    "gulp-livereload": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sass-variables": "^1.2.0",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-watch": "^5.0.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "run-sequence": "^2.2.1",
+    "uglify-es": "^3.3.9"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
